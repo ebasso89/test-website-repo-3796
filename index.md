@@ -1,7 +1,6 @@
 ---
 title: Accueil
 ---
-<!DOCTYPE html>
 <html>
     <head>
         <title>Accueil</title>
