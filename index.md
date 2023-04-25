@@ -5,19 +5,6 @@ title: Accueil
     <head>
         <title>Accueil</title>
         <meta charset="utf-8">
-        <style>body{
-                    background-color: YellowGreen;
-                }
-                h1{
-                    color: green;
-                }
-                h2{
-                    color: darkolivegreen;
-                }
-                p{
-                    color: black;
-                }
-                </style>
     </head>
 
     <body>
